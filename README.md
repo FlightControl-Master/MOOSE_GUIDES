@@ -3,8 +3,8 @@ For external documentation and help
 This is a repository for storing documentation & guides for MOOSE
 
 The MOOSE Companion Guide (PDF downloadable version)
-...
-(WORK IN PROGRESS)
+https://github.com/FlightControl-Master/MOOSE_GUIDES/releases/download/v0.1-rc1/Moose_User_Guide.pdf
+(WORK IN PROGRESS - v0.1-rc1)
 
 Main Docx MS-Word
 https://github.com/FlightControl-Master/MOOSE_GUIDES/blob/master/documents/Moose_User_Guide.docx
