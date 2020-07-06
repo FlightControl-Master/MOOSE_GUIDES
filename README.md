@@ -1,5 +1,15 @@
 # Moose Guides
 For external documentation and help
-This is a repository for storing related documentation for MOOSE, that is created externally to the central moose documentaiton in moose.lua
+This is a repository for storing documentation & guides for MOOSE
 
-Edit and store source documents in the documents directory.
+The MOOSE Companion Guide (PDF downloadable version)
+...
+(WORK IN PROGRESS)
+
+Main Docx MS-Word
+https://github.com/FlightControl-Master/MOOSE_GUIDES/blob/master/documents/Moose_User_Guide.docx
+(WORK IN PROGRESS)
+
+Main Guide Wiki
+https://github.com/FlightControl-Master/MOOSE_GUIDES/wiki/The-MOOSE-companion-Guide-Wiki
+(WORK IN PROGRESS)
