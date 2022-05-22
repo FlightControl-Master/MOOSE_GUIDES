@@ -17,3 +17,7 @@ https://github.com/FlightControl-Master/MOOSE_GUIDES/wiki/The-MOOSE-companion-Gu
 Debug Guide
 https://github.com/FlightControl-Master/MOOSE_GUIDES/blob/master/documents/Debugging%20MOOSE%20scripts%20guide%20-%20DCS%20Mission%20Editing.pdf
 
+[MOOSE Youtube Tutorials](https://youtube.com/playlist?list=PLLkY2GByvtC2ME0Q9wrKRDE6qnXJYV3iT)
+
+Pene has kindly created a [tutorial series for MOOSE](https://youtube.com/playlist?list=PLLkY2GByvtC2ME0Q9wrKRDE6qnXJYV3iT)
+ with various videos that you can watch.
